@@ -1,7 +1,7 @@
 #include <Wire.h>
 
-#define TEMP_SENSOR_PIN A0
-#define DC_MOTOR_PIN 13
+int TEMP_SENSOR_PIN A0
+int DC_MOTOR_PIN 13
 
 double temperature = 0;
 
